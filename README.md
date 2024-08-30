@@ -1,0 +1,1 @@
+Dataset of a sample of Italian companies that have obtained Bcorp certification. This forms the basis for my thesis work in business data analysis, which will focus on text mining techniques that can extract business patterns of sustainability
